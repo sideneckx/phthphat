@@ -1,4 +1,7 @@
-### Hi there 👋
+### About me
+- I have one year working in native Swift iOS development
+- My other skill is Typescript, ReactJS, NodeJs, Graphql
+- More about me, checkout [my profile](https://phthphat.com/about)
 
 <!--
 **phthphat/phthphat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

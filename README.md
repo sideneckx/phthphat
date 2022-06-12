@@ -1,5 +1,5 @@
 ### About me
-- I have one year++ working in native Swift iOS development
+- I have 2.5 year working in native Swift iOS development
 - My other skill: Golang, ReactJS/NextJS, Flutter
 
 <!--
